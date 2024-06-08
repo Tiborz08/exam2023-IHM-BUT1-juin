@@ -52,7 +52,9 @@ Faire un HBox à la racine.
 
 Proposition de réponse :
 
-Il faut 
+Si les composants graphiques ont les mêmes fx:id dans les deux interfaces, il faut s'assurer que les contrôleurs de chaque interface ne manipulent pas simultanément le même composant. 
+
+Pour çela, il faut qu'un contrôleur parent initialise les deux enfants.
 
 # Exercice 3 : SAE
 
