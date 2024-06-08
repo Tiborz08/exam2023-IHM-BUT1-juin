@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="272.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.exam2023.AffichageConsoController">
+   <children>
+      <Label fx:id="labelTypeConsommation" alignment="CENTER" />
+      <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" spacing="50.0">
+         <children>
+            <Label text="Consommation moyenne" />
+            <TextField fx:id="txtFldConsoAff" editable="false" />
+         </children>
+         <VBox.margin>
+            <Insets left="100.0" />
+         </VBox.margin>
+      </HBox>
+      <HBox alignment="CENTER_LEFT" layoutX="10.0" layoutY="168.0" prefHeight="100.0" prefWidth="200.0" spacing="88.0">
+         <children>
+            <Label text="Coût au kilomètre" />
+            <TextField fx:id="txtFldPrixAff" editable="false" />
+         </children>
+         <VBox.margin>
+            <Insets left="100.0" />
+         </VBox.margin>
+      </HBox>
+      <Button fx:id="okButton" mnemonicParsing="false" onAction="#restart" text="OK" />
+   </children>
+</VBox>
