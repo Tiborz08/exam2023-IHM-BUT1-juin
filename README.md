@@ -21,11 +21,11 @@ Persona: Jean Dupont
 
 Proposition de réponse : 
 
-* 1. Guidage (icônes): Utilisation d'icônes claires (coche verte pour "accepté", croix rouge pour "refusé") accompagnées de libellés descriptifs pour indiquer le statut des vœux.
+* Guidage (icônes): Utilisation d'icônes claires (coche verte pour "accepté", croix rouge pour "refusé") accompagnées de libellés descriptifs pour indiquer le statut des vœux.
 
-* 2. Lisibilité: Présentation épurée avec une police lisible, contraste élevé, et espaces blancs pour une lecture fluide.
+* Lisibilité: Présentation épurée avec une police lisible, contraste élevé, et espaces blancs pour une lecture fluide.
 
-* 3. Groupement/Distinction: Groupement des vœux par catégorie (acceptés, refusés, en attente) avec des titres et couleurs distincts pour faciliter la navigation et éviter la confusion.
+* Groupement/Distinction: Groupement des vœux par catégorie (acceptés, refusés, en attente) avec des titres et couleurs distincts pour faciliter la navigation et éviter la confusion.
 
 ### c) Proposez un zoning pour la copie d’écran ci-dessus
 
